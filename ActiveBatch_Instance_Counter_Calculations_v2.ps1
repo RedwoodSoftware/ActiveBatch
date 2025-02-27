@@ -1,6 +1,5 @@
 ﻿<#	
 	SCRIPT:   ActiveBatch_Instance_Counter_Calculations_v2.ps1
-	DOC...:   https://docs.google.com/presentation/d/1UTm2xWZWl0wRqUDng8Xq1VDl62EfsHqh7JAaHAn5s6Y/edit#slide=id.g280e2ddf47e_0_379
 	
 	DESC..:   - The script within this document is only for --estimating-- your current usage. 
 				The is a PowerShell script, and it is not designed to make any changes to your environment. 
